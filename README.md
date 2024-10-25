@@ -1,6 +1,6 @@
 # FullStack
 
-Get started by visiting the [assignment page](https://ece-196.github.io/assignments/full-stack).
+Get started by visiting the [assignment page](https://ece-196.github.io/docs/assignments/full-stack).
 
 # Submission
 
